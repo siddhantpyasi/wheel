@@ -12,7 +12,7 @@ There are two algorithms for mergesort to work. One is recursive, and goes like 
 4. merge the sorted algorithms
 
 
-Then, we had the merge algorithm, which was required some more gymnastics:
+Then, we had the merge algorithm, which required some more gymnastics:
 1. we take two lists
 2. create an empty list, that'll be your finished, sorted product.
 3. while both lists are not empty, compare the first elements of each list, Add whichever is smaller to the empty list, and remove it from the main list.
