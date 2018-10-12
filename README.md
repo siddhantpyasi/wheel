@@ -19,4 +19,15 @@ Then, we had the merge algorithm, which required some more gymnastics:
 4. Once one list is empty, add the other one to the final list.
 
 
-And that's how its done.
+And that's how its done. Also, its worst case complexity is $O(n\log n)$
+
+
+#### InsertionSort
+
+Simple algorithm. 
+
+1. Start looping over the elements
+2. Leave the first element.
+3. Element number 2 onwards, check if the current element is smaller than the previous element. If it is, swap the two. Keep swapping as long as the index is greater than 0.
+
+Worst case complexity is $O(n^2)$
