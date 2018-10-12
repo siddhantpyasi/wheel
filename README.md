@@ -19,7 +19,7 @@ Then, we had the merge algorithm, which required some more gymnastics:
 4. Once one list is empty, add the other one to the final list.
 
 
-And that's how its done. Also, its worst case complexity is ![nlogn](<a href="http://www.codecogs.com/eqnedit.php?latex=O(n\log&space;n)" target="_blank"><img src="http://latex.codecogs.com/gif.latex?O(n\log&space;n)" title="O(n\log n)" /></a>)
+And that's how its done. Also, its worst case complexity is ![nlogn](http://latex.codecogs.com/gif.latex?O(n\log&space;n))
 
 
 #### InsertionSort
