@@ -30,4 +30,4 @@ Simple algorithm.
 2. Leave the first element.
 3. Element number 2 onwards, check if the current element is smaller than the previous element. If it is, swap the two. Keep swapping as long as the index is greater than 0.
 
-Worst case complexity is $O(n^2)$
+Worst case complexity is ![n^2](http://latex.codecogs.com/gif.latex?O(n^2))
